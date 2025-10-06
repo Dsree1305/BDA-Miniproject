@@ -1,7 +1,5 @@
 # BDA-Miniproject
-Here’s a professional **README** for your **Electric Vehicles Analysis** project:
 
----
 
 # Electric Vehicles Analysis Project
 
