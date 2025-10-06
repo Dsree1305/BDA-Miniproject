@@ -1,15 +1,9 @@
-# BDA-Miniproject
-
-
 # Electric Vehicles Analysis Project
 
 ## Overview
 
 This project analyzes a dataset of electric vehicles (EVs) using **PySpark** for data processing and **Python libraries** such as **Matplotlib**, **Seaborn**, and **Pandas** for visualization. The goal is to extract insights about EV trends, range, pricing, manufacturers, and vehicle types.
 
-The analysis culminates in a **PDF report** that summarizes key findings with visualizations and textual insights.
-
----
 
 ## Features
 
@@ -24,7 +18,7 @@ The analysis culminates in a **PDF report** that summarizes key findings with vi
   * Electric range vs Base MSRP.
 * Generate a professional PDF report with all plots and insights.
 
----
+
 
 ## Dataset
 
@@ -37,9 +31,6 @@ The analysis culminates in a **PDF report** that summarizes key findings with vi
   * `ElectricRange`: Range of the vehicle on a full charge.
   * `BaseMSRP`: Manufacturer suggested retail price.
 
-> Ensure the CSV file is present in the same directory as the project script.
-
----
 
 ## Requirements
 
@@ -60,8 +51,6 @@ The analysis culminates in a **PDF report** that summarizes key findings with vi
    * Generate plots for various analyses.
    * Create a PDF report named `ElectricVehiclesAnalysisReport.pdf` with visualizations and insights.
 
----
-
 ## Outputs
 
 * **Plots** (saved as PNG):
@@ -75,8 +64,6 @@ The analysis culminates in a **PDF report** that summarizes key findings with vi
 
   * Combines all plots and key insights for presentation or reporting purposes.
 
----
-
 ## Insights (Sample)
 
 * Average electric range across all models.
@@ -84,7 +71,7 @@ The analysis culminates in a **PDF report** that summarizes key findings with vi
 * Top manufacturer by average electric range.
 * Trends in the number of EV models over the years.
 
----
+
 
 
 
